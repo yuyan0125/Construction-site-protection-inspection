@@ -10,3 +10,4 @@ build/
 
 # 忽略某个具体文件
 datasets
+test
